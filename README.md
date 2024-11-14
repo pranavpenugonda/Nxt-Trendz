@@ -1,4 +1,6 @@
-website: https://prnvnxttrendz.ccbp.tech/
+website: https://prnvnxttrendz.ccbp.tech/ <br>
+### username: rahul  <br>
+### password: rahul@2021 <br>
 
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
